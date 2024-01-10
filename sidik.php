@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h2>Hitungan Bengkel</h2>
+<h2>Hitungan Bengkel.</h2>
 
 <form action="" method="post">
     <label for="jenisLayanan">Pilih Jenis Layanan:</label>
